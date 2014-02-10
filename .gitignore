@@ -1,0 +1,5 @@
+# Ignore all logfiles and tempfiles.
+*~
+
+# Ignore env file
+.env
